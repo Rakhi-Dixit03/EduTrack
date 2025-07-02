@@ -1,6 +1,6 @@
 <!-- Project Banner -->
 <p align="center">
-  <img src="eduTrack-banner.png" alt="EduTrack Banner" width="100%">
+  <img src="EduTrack-banner.png" alt="EduTrack Banner" width="100%">
 </p>
 
 <h1 align="center">🎓 EduTrack</h1>
@@ -124,7 +124,8 @@ MySQL Database
 BCA Graduate | Java Developer | Problem Solver
 
 “I built EduTrack as more than a project — it's my hands-on journey into building clean, real-world, backend systems using industry principles.”
- <H6>Connect With Me on - </H6>
-📫 [LinkedIn](https://www.linkedin.com/in/rakhidixit08) 
-    [GitHub](https://www.github.com/Rakhi-Dixit03)
+
+## 📫 Connect With Me On -
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakhidixit08/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Rakhi-Dixit03)
 
