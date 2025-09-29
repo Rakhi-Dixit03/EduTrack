@@ -61,7 +61,7 @@ Designed using the **DAO-Service layered architecture**, this system focuses on 
 
 <br><br>
 ## 📂 Folder Structure
-
+````
 EduTrack/src/jdbc
 │
 ├── model/ # Bean classes (Student, Course, Instructor, etc.)
@@ -72,7 +72,7 @@ EduTrack/src/jdbc
 ├── db/ # DB connection utility
 ├── main/MainOperation.java # Menu-driven console application
 └── README.md
-
+````
 <br><br>
 
 ## 🧠 Layered Architecture
