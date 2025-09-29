@@ -126,6 +126,6 @@ BCA Graduate | Java Developer | Problem Solver
 “I built EduTrack as more than a project — it's my hands-on journey into building clean, real-world, backend systems using industry principles.”
 
 ## 📫 Connect With Me On -
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakhidixit08/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakhidixit11/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Rakhi-Dixit03)
 
